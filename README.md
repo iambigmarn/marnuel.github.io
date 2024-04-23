@@ -1,0 +1,2 @@
+# marnuel.github.io
+MSIT 5250 WEEK 2 WRITTEN ASSIGNMENT
